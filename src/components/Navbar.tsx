@@ -13,7 +13,7 @@ const Navbar: React.FC = () => {
   };
 
   return (
-    <nav className="flex justify-between items-center  px-4 py-3 bg-black text-white relative">
+    <nav className="flex justify-between items-center  px-4 py-3 bg-gray-950 text-white relative">
       <div className="flex items-center w-16 h-10 sm:w-20 sm:h-[50px]">
         <Image
           src="https://www.tekika.io/images/Tekika-logo-white.svg"
