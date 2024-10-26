@@ -11,7 +11,8 @@ Implement an Image Carousel component using React that displays a series of slid
 ## Video Demo
   https://drive.google.com/file/d/1uiibyZ7tibck7m17KirQ0GxJwFe1_bZe/view?usp=sharing
 
-
+## Deploy on Vercel - Live Link
+  https://image-carousel-zeta-five.vercel.app/
 ## API Reference
 
 ```
@@ -56,9 +57,5 @@ When a locked slide is clicked, the card should shake briefly to indicate it is 
 4. #### Open your browser and navigate to:
      ```bash
     http://localhost:3000
-    ```
-5. #### Open your browser and navigate to:
-     ```bash
-    
     ```
 ## For any queries related to the project, contact at singhdikshant200@gmail.com
